@@ -1,4 +1,4 @@
-# Projet 8 — Déployez un modèle dans le cloud
+# Projet — Déployez un modèle dans le cloud
 
 > **Parcours Data Scientist — OpenClassrooms**  
 > Auteur : Saliou TCHACOULA  
